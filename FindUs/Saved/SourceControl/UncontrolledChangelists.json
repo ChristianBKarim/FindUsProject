@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Projects/FindUsProject/FindUs/Content/DES1/GameFramework/CommenElements/E_UIElement.uasset",
+				"D:/Projects/FindUsProject/FindUs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Projects/FindUsProject/FindUs/Content/DES1/GameFramework/CommenElements/AC_ValueClamped.uasset",
+				"D:/Projects/FindUsProject/FindUs/Content/ChrisStuff/BP_Statue.uasset",
 				"D:/GitHub/FindUsProject/FindUs/Content/ChrisStuff/E_DangerRadius.uasset",
 				"D:/GitHub/FindUsProject/FindUs/Content/ChrisStuff/BP_Statue.uasset",
 				"D:/GitHub/FindUsProject/FindUs/Content/ChrisStuff/M_GlowyRadiation.uasset",
