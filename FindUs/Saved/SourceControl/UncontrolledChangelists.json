@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/TheFunOne/FindUsProject/FindUs/Content/TestMaps/TestMapPlayground.umap",
+				"D:/TheFunOne/FindUsProject/FindUs/Content/MGiusti/Blueprints/BP_Bush.uasset",
+				"D:/TheFunOne/FindUsProject/FindUs/Content/MGiusti/Materials/M_Base.uasset",
+				"D:/TheFunOne/FindUsProject/FindUs/Content/MGiusti/Materials/MI_Bush.uasset",
+				"D:/TheFunOne/FindUsProject/FindUs/Content/MGiusti/Blueprints/BP_Chain.uasset",
 				"C:/Users/mason/OneDrive/Documents/GitHub/FindUsProject/FindUs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
 				"C:/Users/mason/OneDrive/Documents/GitHub/FindUsProject/FindUs/Content/Untitled.umap",
 				"C:/Users/mason/OneDrive/Documents/GitHub/FindUsProject/FindUs/Content/FPWeapon/Materials/M_Red.uasset",
