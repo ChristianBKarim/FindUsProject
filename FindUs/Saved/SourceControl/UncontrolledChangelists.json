@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Projects/FindUsProject/FindUs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Projects/FindUsProject/FindUs/Content/Blueprint/Pickups/BP_BasePickup.uasset",
+				"D:/Projects/FindUsProject/FindUs/Content/Blueprint/Pickups/BP_HealthPickup.uasset",
+				"D:/Projects/FindUsProject/FindUs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/30/DCPWDM81A5RR4A99PG0294.uasset",
+				"D:/Projects/FindUsProject/FindUs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/SF/HCWD20MZSAWT568OTG61RS.uasset",
+				"D:/Projects/FindUsProject/FindUs/Content/Blueprint/Inventory/AC_Inventory.uasset",
+				"D:/Projects/FindUsProject/FindUs/Content/Blueprint/Inventory/DS_Inventory.uasset",
+				"D:/Projects/FindUsProject/FindUs/Content/Blueprint/Inventory/DS_Consumable.uasset",
 				"D:/GitHub/FindUsProject/FindUs/Content/ChrisStuff/E_DangerRadius.uasset",
 				"D:/GitHub/FindUsProject/FindUs/Content/ChrisStuff/M_GlowyRadiation.uasset",
 				"D:/GitHub/FindUsProject/FindUs/Content/ChrisStuff/M_Glowy.uasset",
@@ -22,7 +30,6 @@
 				"D:/GitHub/FindUsProject/FindUs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/3Z/K554JU23RW5W482HFL4SMY.uasset",
 				"D:/GitHub/FindUsProject/FindUs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/YO/R6OZYS4TAC2W08JEQ4YCJX.uasset",
 				"D:/Projects/FindUsProject/FindUs/Content/DES1/GameFramework/CommenElements/E_UIElement.uasset",
-				"D:/Projects/FindUsProject/FindUs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/Projects/FindUsProject/FindUs/Content/DES1/GameFramework/CommenElements/AC_ValueClamped.uasset",
 				"D:/Projects/FindUsProject/FindUs/Content/ChrisStuff/BP_Statue.uasset"
 			]
